@@ -1,0 +1,4 @@
+.env
+node_modules
+comments_data.csv
+issues_data.csv
